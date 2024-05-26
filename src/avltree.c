@@ -28,7 +28,7 @@
  * @see avltree.h
  */
 
-#include "avltree.h"
+#include "ds/avltree.h"
 
 
 static AVLT_HEIGHT_t _node_height(avlt_node_t * node);

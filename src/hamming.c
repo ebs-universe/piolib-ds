@@ -28,7 +28,7 @@
  */
 
 
-#include "hamming.h"
+#include "ds/hamming.h"
 
 
 uint16_t pack_hamming11_5(uint8_t* raw){

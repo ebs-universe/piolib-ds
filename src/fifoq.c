@@ -26,7 +26,7 @@
  * @see fifoq.h
  */
 
-#include "fifoq.h"
+#include "ds/fifoq.h"
 #include <stddef.h>
 
 
