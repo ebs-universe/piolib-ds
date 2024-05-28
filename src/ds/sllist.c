@@ -26,7 +26,7 @@
  * @see sllist.h
  */
 
-#include "ds/sllist.h"
+#include "sllist.h"
 #include <stddef.h>
 
 

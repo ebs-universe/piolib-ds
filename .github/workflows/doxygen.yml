@@ -1,0 +1,13 @@
+name: Generate Doxygen Documentation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate-docs:
+    uses: ebs-universe/gh-workflows/.github/workflows/doxygen.yml@main

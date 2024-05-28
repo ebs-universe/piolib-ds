@@ -30,7 +30,7 @@
  * @see bytebuf.h
  */
 
-#include "ds/bytebuf.h"
+#include "bytebuf.h"
 #include <string.h>
 
 
