@@ -32,7 +32,7 @@
  * The typical application of such a buffer is when one or more data sources 
  * (producers) are writing to a single sink (consumer). In the general case,
  * the buffer is instantiated at and by the consumer, while the producers 
- * user their respective tokens to write to the buffer. 
+ * use their respective tokens to write to the buffer. 
  * 
  * While errors are reported, for optimal use implementations should ensure
  * that the buffers are large enough for the consumers to handle all of the 
