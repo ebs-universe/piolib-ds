@@ -168,7 +168,7 @@ Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Interface and usage of bytebuf buffers. </p>
 <p>This library provides a <a class="el" href="bytebuf_8h.html#a8fce8b17c920b5268b88340d4361a482" title="Primary bytebuf struct typedef.">bytebuf</a> structure and associated functions to implement a circular byte buffer. The design of the buffer is intended to support continuous byte-wide datastreams. A simple locking mechanism for writes is included.</p>
-<p>The typical application of such a buffer is when one or more data sources (producers) are writing to a single sink (consumer). In the general case, the buffer is instantiated at and by the consumer, while the producers user their respective tokens to write to the buffer.</p>
+<p>The typical application of such a buffer is when one or more data sources (producers) are writing to a single sink (consumer). In the general case, the buffer is instantiated at and by the consumer, while the producers use their respective tokens to write to the buffer.</p>
 <p>While errors are reported, for optimal use implementations should ensure that the buffers are large enough for the consumers to handle all of the produced data before an overflow occurs.</p>
 <p>A bytebuf buffer can be at-most 255 bytes long. For longer buffers, some datatypes need to be changed from uint8_t to uint16_t. This will have a performance penalty on uCs with an 8-bit bus.</p>
 <dl class="section see"><dt>See also</dt><dd><a class="el" href="bytebuf_8c.html" title="Implementation of the bytebuf interface.">bytebuf.c</a> </dd></dl>
@@ -731,7 +731,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_79d8f15e560b8d0f485bc841cb37e482.html">ds</a></li><li class="navelem"><a class="el" href="bytebuf_8h.html">bytebuf.h</a></li>
-    <li class="footer">Generated on Tue May 28 2024 15:09:46 for ebs-ds by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Thu Sep 5 2024 09:23:35 for ebs-ds by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>
