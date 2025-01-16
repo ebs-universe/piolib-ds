@@ -20,7 +20,7 @@
     "dependencies": [
         { 
             "owner": "chintal",
-            "name": "ebs-platform",
+            "name": "ebs-platform"
         }
     ]
   }
