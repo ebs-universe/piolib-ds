@@ -1,6 +1,9 @@
 <map id="ds/avltree.c" name="ds/avltree.c">
-<area shape="rect" id="node1" title="Implementation of the AVL binary search tree." alt="" coords="39,5,138,32"/>
-<area shape="rect" id="node2" href="$avltree_8h_source.html" title=" " alt="" coords="49,80,129,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,155,76,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="101,155,175,181"/>
+<area shape="rect" id="Node000001" title="Implementation of the AVL binary search tree." alt="" coords="39,5,138,31"/>
+<area shape="rect" id="Node000002" href="$avltree_8h.html" title=" " alt="" coords="49,79,129,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,31,91,65,86,65,86,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,76,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,106,58,142,54,139,79,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,152,175,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="99,103,124,139,120,142,95,106"/>
 </map>

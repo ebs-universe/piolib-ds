@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['pack_5fhamming11_5f5_67',['pack_hamming11_5',['../hamming_8c.html#a756c7165398947159fec527524de1d40',1,'pack_hamming11_5(uint8_t *raw):&#160;hamming.c'],['../hamming_8h.html#a756c7165398947159fec527524de1d40',1,'pack_hamming11_5(uint8_t *raw):&#160;hamming.c']]],
-  ['pack_5fhamming26_5f6_68',['pack_hamming26_6',['../hamming_8c.html#a75271a3383c47de762b2965953f8bea5',1,'pack_hamming26_6(uint8_t *data):&#160;hamming.c'],['../hamming_8h.html#a0e33ab5b0e11d3e9ea48b175298a01d3',1,'pack_hamming26_6(uint8_t *raw):&#160;hamming.c']]]
+  ['check_5fhamming11_5f5_0',['check_hamming11_5',['../hamming_8c.html#a298285b7e6c0113d6e0902545652472b',1,'check_hamming11_5(uint16_t data):&#160;hamming.c'],['../hamming_8h.html#aad79eeb3fd90abcf855382038baa9583',1,'check_hamming11_5(uint16_t code):&#160;hamming.c']]],
+  ['check_5fhamming26_5f6_1',['check_hamming26_6',['../hamming_8c.html#a3d42b80a3e2511a47150cc1b6f2fd0d5',1,'check_hamming26_6(uint32_t data, uint8_t *result):&#160;hamming.c'],['../hamming_8h.html#a5c3c9304c1a5cddd35308f4d6a4ec201',1,'check_hamming26_6(uint32_t code, uint8_t *result):&#160;hamming.c']]]
 ];

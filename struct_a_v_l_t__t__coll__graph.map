@@ -1,4 +1,6 @@
 <map id="AVLT_t" name="AVLT_t">
-<area shape="rect" id="node1" title=" " alt="" coords="28,97,93,124"/>
-<area shape="rect" id="node2" href="$struct_a_v_l_t___n_o_d_e__t.html" title=" " alt="" coords="5,7,116,33"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,97,93,123"/>
+<area shape="rect" id="Node000002" href="$avltree_8h.html#struct_a_v_l_t___n_o_d_e__t" title=" " alt="" coords="5,7,116,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,46,63,97,58,97,58,46"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="131,11,143,20,134,28,117,31,116,26,132,23,137,20,128,15"/>
 </map>

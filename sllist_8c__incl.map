@@ -1,6 +1,9 @@
 <map id="ds/sllist.c" name="ds/sllist.c">
-<area shape="rect" id="node1" title="Implementation of the sorted linked list.." alt="" coords="46,5,129,32"/>
-<area shape="rect" id="node2" href="$sllist_8h_source.html" title=" " alt="" coords="8,80,73,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="98,80,173,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,155,76,181"/>
+<area shape="rect" id="Node000001" title="Implementation of the sorted linked list.." alt="" coords="46,5,129,31"/>
+<area shape="rect" id="Node000002" href="$sllist_8h.html" title=" " alt="" coords="8,79,73,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,32,58,69,54,66,77,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="98,79,173,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,30,122,66,118,69,93,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,76,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="43,104,43,138,38,138,38,104"/>
 </map>

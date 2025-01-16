@@ -1,6 +1,9 @@
 <map id="ds/bytebuf.c" name="ds/bytebuf.c">
-<area shape="rect" id="node1" title="Implementation of the bytebuf interface." alt="" coords="47,5,148,32"/>
-<area shape="rect" id="node2" href="$bytebuf_8h.html" title="Interface and usage of bytebuf buffers." alt="" coords="5,80,88,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="113,80,183,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="11,155,82,181"/>
+<area shape="rect" id="Node000001" title="Implementation of the bytebuf interface." alt="" coords="47,5,148,31"/>
+<area shape="rect" id="Node000002" href="$bytebuf_8h.html" title="Interface and usage of bytebuf buffers." alt="" coords="5,79,88,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,33,65,69,61,66,87,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="113,79,183,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="108,29,134,66,130,69,104,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="11,152,82,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="49,104,49,138,44,138,44,104"/>
 </map>

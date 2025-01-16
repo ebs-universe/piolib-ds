@@ -1,4 +1,5 @@
 <map id="ds/bytebuf.h" name="ds/bytebuf.h">
-<area shape="rect" id="node1" title="Interface and usage of bytebuf buffers." alt="" coords="5,5,108,32"/>
-<area shape="rect" id="node2" href="$bytebuf_8c.html" title="Implementation of the bytebuf interface." alt="" coords="6,80,107,107"/>
+<area shape="rect" id="Node000001" title="Interface and usage of bytebuf buffers." alt="" coords="5,5,108,31"/>
+<area shape="rect" id="Node000002" href="$bytebuf_8c.html" title="Implementation of the bytebuf interface." alt="" coords="6,79,107,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,44,59,79,54,79,54,44"/>
 </map>

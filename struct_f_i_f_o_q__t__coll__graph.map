@@ -1,4 +1,6 @@
 <map id="FIFOQ_t" name="FIFOQ_t">
-<area shape="rect" id="node1" title=" " alt="" coords="49,109,124,136"/>
-<area shape="rect" id="node2" href="$struct___f_i_f_o_q___i_t_e_m___s_t_u_b__t.html" title=" " alt="" coords="5,5,168,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,108,124,133"/>
+<area shape="rect" id="Node000002" href="$fifoq_8h.html#struct___f_i_f_o_q___i_t_e_m___s_t_u_b__t" title=" " alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,45,89,108,84,108,84,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="183,9,195,18,187,26,169,29,168,24,184,21,189,18,180,13"/>
 </map>

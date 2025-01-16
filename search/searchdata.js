@@ -1,11 +1,12 @@
 var indexSectionsWithContent =
 {
-  0: "_abcfhpsu",
-  1: "_abf",
-  2: "abfhs",
-  3: "bchpu",
-  4: "_",
-  5: "b"
+  0: "_abcdfhiklnprstu",
+  1: "_abfh",
+  2: "abcfhs",
+  3: "_abcfhpsu",
+  4: "_cfhiklnprst",
+  5: "_abf",
+  6: "abdhps"
 };
 
 var indexSectionNames =
@@ -15,7 +16,8 @@ var indexSectionNames =
   2: "files",
   3: "functions",
   4: "variables",
-  5: "typedefs"
+  5: "typedefs",
+  6: "defines"
 };
 
 var indexSectionLabels =
@@ -25,6 +27,7 @@ var indexSectionLabels =
   2: "Files",
   3: "Functions",
   4: "Variables",
-  5: "Typedefs"
+  5: "Typedefs",
+  6: "Macros"
 };
 

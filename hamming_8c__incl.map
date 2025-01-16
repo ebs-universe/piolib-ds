@@ -1,6 +1,9 @@
 <map id="ds/hamming.c" name="ds/hamming.c">
-<area shape="rect" id="node1" title="Implementation of the hamming library." alt="" coords="31,5,146,32"/>
-<area shape="rect" id="node2" href="$hamming_8h.html" title="Interface and usage of the hamming library." alt="" coords="41,80,137,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,155,76,181"/>
-<area shape="rect" id="node4" href="$config_8h_source.html" title=" " alt="" coords="100,155,173,181"/>
+<area shape="rect" id="Node000001" title="Implementation of the hamming library." alt="" coords="31,5,146,31"/>
+<area shape="rect" id="Node000002" href="$hamming_8h.html" title="Interface and usage of the hamming library." alt="" coords="41,79,137,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,31,91,65,86,65,86,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,76,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,106,58,142,54,139,79,103"/>
+<area shape="rect" id="Node000004" href="$config_8h.html" title=" " alt="" coords="100,152,173,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="99,103,124,139,119,142,94,106"/>
 </map>

@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['check_5fhamming11_5f5_64',['check_hamming11_5',['../hamming_8c.html#a298285b7e6c0113d6e0902545652472b',1,'check_hamming11_5(uint16_t data):&#160;hamming.c'],['../hamming_8h.html#aad79eeb3fd90abcf855382038baa9583',1,'check_hamming11_5(uint16_t code):&#160;hamming.c']]],
-  ['check_5fhamming26_5f6_65',['check_hamming26_6',['../hamming_8c.html#a3d42b80a3e2511a47150cc1b6f2fd0d5',1,'check_hamming26_6(uint32_t data, uint8_t *result):&#160;hamming.c'],['../hamming_8h.html#a5c3c9304c1a5cddd35308f4d6a4ec201',1,'check_hamming26_6(uint32_t code, uint8_t *result):&#160;hamming.c']]]
+  ['avlt_5ffind_5fnode_0',['avlt_find_node',['../avltree_8c.html#aea99d314ede6694f5bd5d8421b56fdbd',1,'avlt_find_node(avlt_t *tree, uint16_t key):&#160;avltree.c'],['../avltree_8h.html#aea99d314ede6694f5bd5d8421b56fdbd',1,'avlt_find_node(avlt_t *tree, uint16_t key):&#160;avltree.c']]],
+  ['avlt_5finit_5fnode_1',['avlt_init_node',['../avltree_8c.html#a7853fb9493d57607cdd833c066f407c5',1,'avlt_init_node(avlt_node_t *node, uint16_t key, void *content):&#160;avltree.c'],['../avltree_8h.html#a7853fb9493d57607cdd833c066f407c5',1,'avlt_init_node(avlt_node_t *node, uint16_t key, void *content):&#160;avltree.c']]],
+  ['avlt_5finsert_5fnode_2',['avlt_insert_node',['../avltree_8c.html#ad87ef831d2d5a8d1e6d310ebde53a4e4',1,'avlt_insert_node(avlt_t *tree, avlt_node_t *node):&#160;avltree.c'],['../avltree_8h.html#a8e36769297b694b4e0e71ef4ea979817',1,'avlt_insert_node(avlt_t *parent, avlt_node_t *node):&#160;avltree.c']]]
 ];

@@ -1,0 +1,19 @@
+<map id="_tree_balance" name="_tree_balance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,128,119,153"/>
+<area shape="rect" id="Node000002" href="$avltree_8c.html#a409e21b0ca019f5dd84b9bd03f0a4551" title=" " alt="" coords="167,128,285,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,138,153,138,153,143,119,143"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="199,129,193,120,196,110,207,104,226,101,248,105,258,113,254,117,246,110,226,107,209,109,200,113,198,119,203,126"/>
+<area shape="rect" id="Node000003" href="$avltree_8c.html#ad302b38794c155c12839bfb174420b7b" title=" " alt="" coords="339,29,503,55"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="240,126,280,95,332,64,349,57,351,62,335,68,283,99,244,130"/>
+<area shape="rect" id="Node000005" href="$avltree_8c.html#abacf5762e086524e6c330fc423ca0f29" title=" " alt="" coords="343,79,499,104"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="276,125,356,105,357,110,277,131"/>
+<area shape="rect" id="Node000006" href="$avltree_8c.html#a68014848fecb2fa2123ab65da6644175" title=" " alt="" coords="338,128,503,153"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="285,138,324,138,324,143,285,143"/>
+<area shape="rect" id="Node000007" href="$avltree_8c.html#ac68caaea5bbf14cd2c10429bb3a7ee4c" title=" " alt="" coords="338,177,503,203"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="277,151,357,171,356,176,276,156"/>
+<area shape="rect" id="Node000008" href="$avltree_8c.html#a1731bd42e319053bc53156c76776c27a" title=" " alt="" coords="333,227,508,252"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="244,151,284,181,335,212,355,220,353,225,332,216,281,186,241,156"/>
+<area shape="rect" id="Node000004" href="$avltree_8c.html#a9c2fe9f761b42a5763b0a54960407fdb" title=" " alt="" coords="556,29,665,55"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="503,39,542,39,542,45,503,45"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="579,31,573,21,576,11,589,5,611,3,637,6,648,15,644,19,635,11,611,8,591,10,580,15,578,20,584,28"/>
+</map>
