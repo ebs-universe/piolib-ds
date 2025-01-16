@@ -1,6 +1,6 @@
 {
     "name": "ebs-ds",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "Assorted low-level datastructures used by higher level EBS libraries",
     "keywords": "ebs",
     "repository": {
@@ -21,7 +21,6 @@
         { 
             "owner": "chintal",
             "name": "ebs-platform",
-            "version": "^0.2.0"
         }
     ]
   }
